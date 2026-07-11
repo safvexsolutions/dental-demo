@@ -1,5 +1,5 @@
 /* ============================================================
-   I SMILE DENTAL CLINIC — shared behaviour
+   Dr. Agrawal Dental Clinic — shared behaviour
    ============================================================ */
 
 // ---------- Config ----------
