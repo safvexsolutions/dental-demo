@@ -1,5 +1,5 @@
 /* ============================================================
-   Dr. Agrawal Dental Clinic — shared behaviour
+   Dr. Jains Dental Clinic — shared behaviour
    ============================================================ */
 
 // ---------- Config ----------
@@ -7,8 +7,8 @@ const CLINIC = {
   phone: "917776900037",           // WhatsApp / call number, international format no +
   phoneDisplay: "+91 77769 00037",
   email: "safvexsolutions@gmail.com",
-  address: "1st Floor, Om Palace, near Indrani's Showroom, Suyog Nagar, Nagpur, Maharashtra, India",
-  mapsLink: "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x3bd4bf2f1efb3a71:0x8082d61fdfe1768c?entry=s&sa=X&ved=1t:8290&hl=en-in&ictx=111",
+  address: "Dharampeth, Nagpur, Maharashtra, India",
+  mapsLink: "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x3bd4c15f253430f7:0xf539eaa8de6ac261?entry=s&sa=X&ved=2ahUKEwiJlJvf7sqVAxVxWXADHXnGOVUQ4kB6BAgEEAA&hl=en",
   hoursShort: "11:00 AM – 7:00 PM",
   emailjs: {
     serviceId: "service_zkqa3cq",
